@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Rv from './components/Rv/Rv';
+import az from './components/Azahar/azahar.js';
 function App() {
   return (
     <div>
