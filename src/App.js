@@ -7,6 +7,7 @@ function App() {
     <div>
     <h1> MY APP</h1>
     <Rv/>
+    <az/>
     <p></p>
 
     </div>
