@@ -1,6 +1,6 @@
 import React from 'react';
-const Rv = () => {
+const az = () => {
     return <h1>this is added by  Azahar</h1>
 
 }
-export default Rv;
+export default az;
